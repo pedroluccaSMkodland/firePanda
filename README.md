@@ -1,2 +1,2 @@
 # firePanda
-meu primeiro repositorio(nem sei oque e)
+meu primeiro repositorio
